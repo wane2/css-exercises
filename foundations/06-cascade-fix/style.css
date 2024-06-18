@@ -9,12 +9,12 @@ body {
 }
 
 .small-para {
-  font-size: 14px;
+  font-size: 10px;
   font-weight: 800;
 }
 
 .para {
-  font-size: 22px;
+  font-size: 25px;
 }
 
 .confirm {
@@ -32,11 +32,22 @@ body {
 .child {
   color: rgb(0, 0, 0);
   font-weight: 800;
-  font-size: 14px;
+  font-size: 5px;
 }
 
 div.text {
   color: rgb(0, 0, 0);
-  font-size: 22px;
+  font-size: 18px;
   font-weight: 100;
+}
+.para.small-para {
+  font-size:11px ;
+}
+#confirm-buttom {
+  color: white;
+  background-color: green;
+}
+.text.child {
+  font-size: 12px;
+  font-weight: bold;
 }
